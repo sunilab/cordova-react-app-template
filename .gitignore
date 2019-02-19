@@ -1,0 +1,10 @@
+node_modules/**/*
+npm-debug.*
+.DS_Store
+dist/*
+app/node_modules/**/*
+app/platforms/**/*
+app/plugins/**/*
+app/res/**/*
+app/www/css/style.css
+app/www/js/main*
